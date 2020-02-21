@@ -1,4 +1,4 @@
-gifunction stringIncrement(){
+function stringIncrement(){
     var arrayString=[arr.split("00","23","9","099")];
 }
     var Result=[ ];
